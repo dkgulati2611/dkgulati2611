@@ -1,6 +1,7 @@
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Dipesh K. Gulati</h1>
 
 ## 👨🏻‍💻 About Me:
+<img  src="./6200255.webp" height="290px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://portfolio-3mal.onrender.com/)**
 
