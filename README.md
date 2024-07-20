@@ -38,6 +38,22 @@
 <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
 </p>
 
+## 📊 GitHub Stats:
+<p align="center">
+    <a href="https://github.com/dkgulati2611/">
+        <img src="https://github-readme-stats.vercel.app/api?username=dkgulati2611&show_icons=true&theme=radical" alt="Dipesh's GitHub Stats" />
+    </a>
+</p>
+<p align="center">
+    <a href="https://github.com/dkgulati2611/">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkgulati2611&layout=compact&theme=radical" alt="Dipesh's Top Languages" />
+    </a>
+</p>
+<p align="center">
+    <a href="https://github.com/dkgulati2611/">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dkgulati2611&theme=radical" alt="Dipesh's GitHub Streak Stats" />
+    </a>
+</p>
 
 ## ❤️ Let's get connected:
 
