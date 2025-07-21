@@ -1,17 +1,21 @@
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/9911539520/235780891-2023d609-9334-4dd0-a66d-4938d816fdfb.gif" alt="Banner" width="100%" />
+
   <h1>
-    Welcome to My Digital Space 
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px" alt="wave" />
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px" alt="wave" /> Hey there! I'm Dipesh K. Gulati
   </h1>
   
   <p>
-    I'm Dipesh K. Gulati - A Full Stack Developer passionate about creating impactful web experiences
+    
+🚀 A passionate **Full Stack Developer** crafting modern web experiences with a deep love for scalable architecture and clean code.
+
+🌐 [Portfolio](https://dipesh-k-gulati.vercel.app/) | 🔗 [Linktree](https://linktr.ee/dkgulati2611)
+
   </p>
 </div>
 
 ## 🚀 Quick Overview
 
-- 🌐 Portfolio: [My Website](https://dipesh-k-gulati.vercel.app/)
 - 💻 Currently: Building Full Stack Web Applications
 - 📚 Learning: Advanced Next.js and TypeScript
 - 🤝 Open to: Collaboration on Open Source Projects
@@ -75,4 +79,5 @@
   <a href="https://www.linkedin.com/in/dipesh-kumar-gulati-48ba591b6/" target="_blank" rel="noopener noreferrer">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/>
   </a>
+    <a href="https://linktr.ee/dkgulati2611" target="_blank"><img src="https://img.shields.io/badge/Linktree-39e09b?style=for-the-badge&logo=linktree&logoColor=white" height="30px"/></a>
 </div>
